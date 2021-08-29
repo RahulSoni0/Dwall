@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Login SIgnup UI</string>
+    <string name="new_here_cr">
+
+New here? Create account
+</string>
+    <string name="welcome_nback">Welcome\nBack</string>
+    <string name="sign_in">Sign in</string>
+    <string name="new_here_create_account">New here? Create account</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+</resources>
